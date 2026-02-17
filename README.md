@@ -21,7 +21,3 @@ npm start
 `./mvnw spring-boot:run`
 
 4. Open your browser and browse to http://localhost:3000
-
-### Sample Result
-
-![ToDoList App](https://i.imgur.com/7bjdoTW.png)
